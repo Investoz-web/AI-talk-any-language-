@@ -1,7 +1,7 @@
 # Realtime-voice-translate
 Building AI course project.
 
-# Summary
+## Summary
 An AI system that enables real-time communication between people who speak different languages, where each person can speak their native language and still be understood instantly.
 The goal is to create communication that feels as natural and human as possible, without language barriers getting in the way.
 
