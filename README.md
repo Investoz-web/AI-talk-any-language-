@@ -1,4 +1,4 @@
-# realtime-voice-translate
+# Realtime-voice-translate
 Building AI course project.
 
 # Summary
